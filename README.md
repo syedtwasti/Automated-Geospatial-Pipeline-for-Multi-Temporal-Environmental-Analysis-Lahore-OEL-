@@ -1,5 +1,6 @@
 # Automated-Geospatial-Pipeline-for-Multi-Temporal-Environmental-Analysis-Islamabad-OEL-
 A fully automated Python-based geospatial processing pipeline for multi-temporal environmental monitoring of Islamabad using satellite-derived indices. The project computes zonal statistics for administrative boundaries and performs temporal change detection for vegetation and water stress using open-source GIS libraries in Google Colab.
+
 🌍 Project Overview
 
 This project implements an end-to-end automated GIS workflow for environmental monitoring of Islamabad. It processes satellite-derived indices (NDVI, NDWI, EVI, SAVI) across two time periods to analyze vegetation health and surface water dynamics at the administrative (Tehsil/Union Council) level.
