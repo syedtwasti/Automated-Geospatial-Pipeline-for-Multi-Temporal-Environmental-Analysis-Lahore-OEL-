@@ -1,0 +1,7 @@
+Tehsil,NDVI (2023),NDVI (2024),NDVI Net Change,NDWI (2023),NDWI (2024),NDWI Net Change,SAVI (2023),SAVI (2024),SAVI Net Change,EVI (2023),EVI (2024),EVI Net Change
+Kasur,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lahore,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Nankana Sahib,0.5144,0.5612,+0.0468 (Improved),-0.5124,-0.5436,-0.0311 (Degraded),0.3357,0.3758,+0.0401 (Improved),0.3478,0.3962,+0.0483 (Improved)
+Okara,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Okara 1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Sheikhupura,0.5496,0.5967,+0.0471 (Improved),-0.5319,-0.5666,-0.0348 (Degraded),0.3603,0.401,+0.0407 (Improved),0.3767,0.4253,+0.0487 (Improved)

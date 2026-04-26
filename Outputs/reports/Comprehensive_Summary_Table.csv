@@ -1,0 +1,7 @@
+District,Tehsil,NDVI (2023),NDVI (2024),NDVI Net Change,NDWI (2023),NDWI (2024),NDWI Net Change,SAVI (2023),SAVI (2024),SAVI Net Change,EVI (2023),EVI (2024),EVI Net Change
+Lahore,Kasur,-1.7958,-1.3160,+0.4798 (Improved),-1.8792,-1.6129,+0.2663 (Improved),-1.8104,-1.3661,+0.4443 (Improved),-1.8093,-1.3606,+0.4487 (Improved)
+Lahore,Lahore,-1.9999,-1.7714,+0.2285 (Improved),-1.9999,-1.8723,+0.1276 (Improved),-1.9999,-1.7884,+0.2115 (Improved),-1.9999,-1.7863,+0.2136 (Improved)
+Lahore,Nankana Sahib,-1.9892,-1.8297,+0.1595 (Improved),-1.9937,-1.9012,+0.0925 (Improved),-1.9900,-1.8419,+0.1481 (Improved),-1.9899,-1.8407,+0.1492 (Improved)
+Lahore,Okara,0.0000,0.0000,+0.0000 (No Data),0.0000,0.0000,+0.0000 (No Data),0.0000,0.0000,+0.0000 (No Data),0.0000,0.0000,+0.0000 (No Data)
+Lahore,Okara 1,0.0000,0.0000,+0.0000 (No Data),0.0000,0.0000,+0.0000 (No Data),0.0000,0.0000,+0.0000 (No Data),0.0000,0.0000,+0.0000 (No Data)
+Lahore,Sheikhupura,-1.9999,-1.7157,+0.2842 (Improved),-1.9999,-1.8333,+0.1666 (Improved),-1.9999,-1.7363,+0.2636 (Improved),-1.9999,-1.7343,+0.2656 (Improved)
